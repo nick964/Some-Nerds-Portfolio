@@ -7,8 +7,9 @@
 
 .visible { visibility: visible !important; }
 
+/*
 .concealed { visibility: hidden; }
-
+*/
 .underlined { padding-bottom: 1px; border-bottom-width: 1.5px; border-bottom-style: solid; }
 
 .heart { margin: 0 5px; display: inline-block; font-family: FontAwesome; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
